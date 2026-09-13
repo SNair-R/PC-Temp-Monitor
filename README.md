@@ -2,6 +2,10 @@
 
 A real-time PC hardware monitor that displays CPU temperature, CPU usage, GPU temperature, and GPU usage on a 128x32 OLED screen using a Raspberry Pi Pico W.
 
+<p align="center">
+  <img src="images/pc_hardware_monitor.jpg" alt="PC Hardware Monitor" width="50%">
+</p>
+
 ## Hardware
 
 - Raspberry Pi Pico W
